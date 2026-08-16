@@ -119,5 +119,15 @@ pnpm add -w -D <package-name>
 
 ---
 
-## 📄 License
-ISC
+## Screenshots
+![screenshot](https://raw.githubusercontent.com/Magesh-sam/store/refs/heads/master/screenshots/FireShot%20Capture%20001%20-%20e-commerce%20-%20%5Blocalhost%5D.png)
+![screenshot](https://raw.githubusercontent.com/Magesh-sam/store/refs/heads/master/screenshots/FireShot%20Capture%20002%20-%20e-commerce%20-%20%5Blocalhost%5D.png)
+![screenshot](https://raw.githubusercontent.com/Magesh-sam/store/refs/heads/master/screenshots/FireShot%20Capture%20003%20-%20e-commerce%20-%20%5Blocalhost%5D.png)
+![screenshot](https://raw.githubusercontent.com/Magesh-sam/store/refs/heads/master/screenshots/FireShot%20Capture%20004%20-%20e-commerce%20-%20%5Blocalhost%5D.png)
+![screenshot](https://raw.githubusercontent.com/Magesh-sam/store/refs/heads/master/screenshots/FireShot%20Capture%20005%20-%20e-commerce%20-%20%5Blocalhost%5D.png)
+![screenshot](https://raw.githubusercontent.com/Magesh-sam/store/refs/heads/master/screenshots/FireShot%20Capture%20006%20-%20e-commerce%20-%20%5Blocalhost%5D.png)
+![screenshot](https://raw.githubusercontent.com/Magesh-sam/store/refs/heads/master/screenshots/FireShot%20Capture%20007%20-%20e-commerce%20-%20%5Blocalhost%5D.png)
+![screenshot](https://raw.githubusercontent.com/Magesh-sam/store/refs/heads/master/screenshots/FireShot%20Capture%20008%20-%20e-commerce%20-%20%5Blocalhost%5D.png)
+![screenshot](https://raw.githubusercontent.com/Magesh-sam/store/refs/heads/master/screenshots/FireShot%20Capture%20009%20-%20e-commerce%20-%20%5Blocalhost%5D.png)
+
+
