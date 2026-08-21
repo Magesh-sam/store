@@ -90,12 +90,12 @@ function Cart() {
 
 								<div className="flex justify-between">
 									<span className="text-muted-foreground">Shipping</span>
-									<span>Calculated at checkout</span>
+									<span>Freet</span>
 								</div>
 
 								<div className="flex justify-between">
 									<span className="text-muted-foreground">Tax</span>
-									<span>Calculated at checkout</span>
+									<span>0%</span>
 								</div>
 							</div>
 

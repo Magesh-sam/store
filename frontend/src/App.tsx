@@ -5,6 +5,7 @@ import RootLayout from "@/components/layout/RootLayout";
 import { Toaster } from "@/components/ui/toast";
 import HomeSkeleton from "./components/skeletons/HomeSkeleton";
 import Protected from "./pages/auth/Protected";
+import Checkout from "./pages/Checkout";
 
 const Admin = lazy(() => import("./pages/admin/Admin"));
 const Categories = lazy(() => import("./pages/admin/Categories"));
@@ -77,7 +78,7 @@ const router = createBrowserRouter([
 				path: "checkout",
 				element: (
 					<Lazy>
-						<Cart />
+						<Checkout />
 					</Lazy>
 				),
 			},

@@ -25,6 +25,17 @@ function Navbar() {
 						<span className="sr-only">Cart</span>
 					</Link>
 
+					<Link
+						to={isAuthenticated ? "/profile" : "/login"}
+						className={buttonVariants({ variant: "ghost", size: "icon" })}
+					>
+						<User className="h-5 w-5" />
+						<span className="sr-only">
+							{isAuthenticated ? "Profile" : "Login"}
+						</span>
+					</Link>
+
+					<ThemeBtn />
 					{isAuthenticated && (
 						<div className="flex items-center gap-4">
 							{role === "admin" && (
@@ -42,17 +53,6 @@ function Navbar() {
 							</Button>
 						</div>
 					)}
-					<Link
-						to={isAuthenticated ? "/profile" : "/login"}
-						className={buttonVariants({ variant: "ghost", size: "icon" })}
-					>
-						<User className="h-5 w-5" />
-						<span className="sr-only">
-							{isAuthenticated ? "Profile" : "Login"}
-						</span>
-					</Link>
-
-					<ThemeBtn />
 				</nav>
 			</div>
 		</header>
